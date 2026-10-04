@@ -1,0 +1,6 @@
+{
+  "name": "JurisTrilha: Recursos & Impugnações Cíveis",
+  "description": "Plataforma de alta retenção e design premium para estudo completo de Recursos e Meios de Impugnação no Processo Civil com teoria, mnemônicos, áudio e simuladores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
